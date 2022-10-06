@@ -131,10 +131,22 @@ button {
   font-family: inherit;
   font-weight: 700;
   background-color: #a4ffaf;
+  border: 1px solid #a4ffaf;
   color: #24232c;
   padding: 10px;
   width: 100%;
   text-transform: uppercase;
+}
+
+button:hover {
+  border: 1px solid #a4ffaf;
+  background-color: transparent;
+  color: #a4ffaf;
+  font-weight: 400;
+}
+
+button:hover img:hover {
+  color: #a4ffaf;
 }
 
 .password-strength {

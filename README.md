@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screen](./screenshots/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/password-generator-zAg5AYhPt5](https://www.frontendmentor.io/solutions/password-generator-zAg5AYhPt5)
+- Live Site URL: [https://fm-password-generator.netlify.app/](https://fm-password-generator.netlify.app/)
 
 ## My process
 
