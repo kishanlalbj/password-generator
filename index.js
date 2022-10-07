@@ -142,6 +142,7 @@ const generatePassword = (lower, upper, numbers, symbols, length) => {
   }
 
   for (let i = 0; i < length; i++) {
+    console.log(length);
     generatedPassword +=
       generator[
         Object.keys(types[Math.floor(Math.random() * typesCount)])[0]
