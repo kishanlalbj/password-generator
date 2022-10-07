@@ -28,11 +28,10 @@ const strength = (types) => {
   });
 
   const bars = document.querySelectorAll(".strength-bar");
-  console.log(bars);
+
   bars.forEach((bar, index) => {
     if (index <= types.length - 1) {
-      console.log(index);
-      bar.style.backgroundColor = strengthLevels[index].color;
+      bar.style.backgroundColor = strengthLevels[types.length - 1].color;
       return;
     }
 
